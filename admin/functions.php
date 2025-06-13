@@ -4,6 +4,7 @@
  * @ PHP 7.2 & 7.3
  * @ Decoder version: 1.0.6
  * @ Release: 10/08/2022
+ * file functions.php
  */
 
 include_once "/home/odiniptv/admin/HTMLPurifier.standalone.php";
